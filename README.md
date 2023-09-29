@@ -19,4 +19,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 >
 >* Reprodutor Musical: tocar, pausar, selecionarMusica;
 >* Aparelho Telefônico: ligar, atender, iniciarCorreioVoz;
->* Navegador na Internet: exibirPagina, adicinarNovaAba, atualizarPagina;
+>* Navegador na Internet: exibirPagina, adicinarNovaAba, atualizarPagina.
+
+![Abaixo diagrama construído para o desafio:](UML-iphone-1.jpg)
